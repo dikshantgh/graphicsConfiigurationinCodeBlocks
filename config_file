@@ -2,6 +2,8 @@ As Code Block by default doesn't have "graphics.h". So, I followed One tutorial 
 
 1. Download "WinBGIm_Library6_0_Nov2005.rar" from http://winbgim.codecutter.org/
 
+https://drive.google.com/file/d/16xZBvFXf7yFjxwTpuyevK1KPuLgUeZFh/view
+
 2. After extraction put "graphics.h" & "winbgim.h" in "C:\Program Files\CodeBlocks\MinGW\include" folder
 
 3. "libbgi.a" in "C:\Program Files\CodeBlocks\MinGW\lib" folder
